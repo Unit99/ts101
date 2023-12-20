@@ -1,0 +1,14 @@
+{
+  "name": "ts101",
+  "version": "1.0.0",
+  "description": "Learning fundmentals of TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjib Adhya",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
